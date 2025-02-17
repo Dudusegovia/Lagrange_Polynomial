@@ -11,8 +11,6 @@ Dado um conjunto de pontos (X0, a0), (X1, a1), ..., (Xn, an), o polinômio inter
 
 ![image](https://github.com/user-attachments/assets/aa676a39-b2e0-4d23-b7d7-cfbdc6a73f45)
 
-## p ( x ) = a 1 L 1 ( x ) + a 2 L 2 ( x ) + ⋯ + a n L n ( x ) = ∑ k = 1 n a k L k ( x ) 
-
 onde  são os polinômios de base de Lagrange dados por:
 
 ![image](https://github.com/user-attachments/assets/baa53ada-b9d2-43a9-b0ce-bda7df1ab006)
